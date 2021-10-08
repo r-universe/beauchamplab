@@ -25,3 +25,13 @@
 	shallow = true
 	branch = migrate2
 	registered = true
+[submodule "dipsaus"]
+	path = dipsaus
+	url = https://github.com/dipterix/dipsaus
+	shallow = true
+	registered = false
+[submodule "threeBrain"]
+	path = threeBrain
+	url = https://github.com/dipterix/threeBrain
+	shallow = true
+	registered = false
