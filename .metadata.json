@@ -8,5 +8,8 @@
   {
     "package": "raveio",
     "oncran": true
+  },
+  {
+    "package": "ravebuiltins"
   }
 ]
