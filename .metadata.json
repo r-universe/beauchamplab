@@ -1,5 +1,11 @@
 [
   {
+    "package": "rave"
+  },
+  {
+    "package": "rutabaga"
+  },
+  {
     "package": "raveio",
     "oncran": true
   }
