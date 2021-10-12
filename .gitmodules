@@ -3,12 +3,6 @@
 	url = https://github.com/beauchamplab/universe
 	shallow = true
 	branch = HEAD
-[submodule "rave"]
-	path = rave
-	url = https://github.com/beauchamplab/rave
-	shallow = true
-	branch = 1.0.3
-	registered = true
 [submodule "rutabaga"]
 	path = rutabaga
 	url = https://github.com/dipterix/rutabaga
@@ -18,12 +12,6 @@
 	path = raveio
 	url = https://github.com/beauchamplab/raveio
 	shallow = true
-	registered = true
-[submodule "ravebuiltins"]
-	path = ravebuiltins
-	url = https://github.com/beauchamplab/ravebuiltins
-	shallow = true
-	branch = migrate2
 	registered = true
 [submodule "dipsaus"]
 	path = dipsaus
