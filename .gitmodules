@@ -30,6 +30,11 @@
 	url = https://github.com/dipterix/dipsaus
 	shallow = true
 	registered = false
+[submodule "filearray"]
+	path = filearray
+	url = https://github.com/dipterix/filearray
+	shallow = true
+	registered = false
 [submodule "threeBrain"]
 	path = threeBrain
 	url = https://github.com/dipterix/threeBrain
