@@ -35,6 +35,11 @@
 	url = https://github.com/dipterix/filearray
 	shallow = true
 	registered = false
+[submodule "shidashi"]
+	path = shidashi
+	url = https://github.com/dipterix/shidashi
+	shallow = true
+	registered = false
 [submodule "threeBrain"]
 	path = threeBrain
 	url = https://github.com/dipterix/threeBrain
