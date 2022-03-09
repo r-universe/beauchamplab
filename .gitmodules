@@ -3,20 +3,54 @@
 	url = https://github.com/beauchamplab/universe
 	shallow = true
 	branch = HEAD
-[submodule "rave"]
-	path = rave
-	url = https://github.com/beauchamplab/rave
+[submodule "filearray"]
+	path = filearray
+	url = https://github.com/dipterix/filearray
 	shallow = true
-	branch = 1.0.3
+	registered = true
+[submodule "dipsaus"]
+	path = dipsaus
+	url = https://github.com/dipterix/dipsaus
+	shallow = true
+	registered = true
+[submodule "shidashi"]
+	path = shidashi
+	url = https://github.com/dipterix/shidashi
+	shallow = true
+	registered = true
+[submodule "threeBrain"]
+	path = threeBrain
+	url = https://github.com/dipterix/threeBrain
+	shallow = true
+	registered = true
+[submodule "rpymat"]
+	path = rpymat
+	url = https://github.com/dipterix/rpymat
+	shallow = true
+	registered = true
+[submodule "raveio"]
+	path = raveio
+	url = https://github.com/beauchamplab/raveio
+	shallow = true
+	registered = true
+[submodule "ravetools"]
+	path = ravetools
+	url = https://github.com/dipterix/ravetools
+	shallow = true
+	registered = true
+[submodule "ravedash"]
+	path = ravedash
+	url = https://github.com/dipterix/ravedash
+	shallow = true
 	registered = true
 [submodule "rutabaga"]
 	path = rutabaga
 	url = https://github.com/dipterix/rutabaga
 	shallow = true
 	registered = true
-[submodule "raveio"]
-	path = raveio
-	url = https://github.com/beauchamplab/raveio
+[submodule "rave"]
+	path = rave
+	url = https://github.com/beauchamplab/rave
 	shallow = true
 	registered = true
 [submodule "ravebuiltins"]
@@ -25,23 +59,3 @@
 	shallow = true
 	branch = migrate2
 	registered = true
-[submodule "dipsaus"]
-	path = dipsaus
-	url = https://github.com/dipterix/dipsaus
-	shallow = true
-	registered = false
-[submodule "filearray"]
-	path = filearray
-	url = https://github.com/dipterix/filearray
-	shallow = true
-	registered = false
-[submodule "shidashi"]
-	path = shidashi
-	url = https://github.com/dipterix/shidashi
-	shallow = true
-	registered = false
-[submodule "threeBrain"]
-	path = threeBrain
-	url = https://github.com/dipterix/threeBrain
-	shallow = true
-	registered = false

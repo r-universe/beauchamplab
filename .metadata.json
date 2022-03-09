@@ -1,13 +1,40 @@
 [
   {
-    "package": "rave"
+    "package": "filearray",
+    "oncran": true
+  },
+  {
+    "package": "dipsaus",
+    "oncran": true
+  },
+  {
+    "package": "shidashi",
+    "oncran": true
+  },
+  {
+    "package": "threeBrain",
+    "oncran": true
+  },
+  {
+    "package": "rpymat",
+    "oncran": true
+  },
+  {
+    "package": "raveio",
+    "oncran": true
+  },
+  {
+    "package": "ravetools",
+    "oncran": true
+  },
+  {
+    "package": "ravedash"
   },
   {
     "package": "rutabaga"
   },
   {
-    "package": "raveio",
-    "oncran": true
+    "package": "rave"
   },
   {
     "package": "ravebuiltins"
