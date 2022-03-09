@@ -1,11 +1,5 @@
 [
   {
-    "package": "cpp11",
-    "url": "https://github.com/r-lib/cpp11",
-    "via": ["ravedash", "lobstr"],
-    "from": "ravedash"
-  },
-  {
     "package": "crayon",
     "url": "https://github.com/r-lib/crayon",
     "via": ["ravedash"],
@@ -66,12 +60,6 @@
     "from": "raveio"
   },
   {
-    "package": "lobstr",
-    "url": "https://github.com/r-lib/lobstr",
-    "via": ["ravedash"],
-    "from": "ravedash"
-  },
-  {
     "package": "logger",
     "url": "https://github.com/daroczig/logger",
     "via": ["ravedash"],
@@ -92,6 +80,12 @@
   {
     "package": "raveio",
     "url": "https://github.com/beauchamplab/raveio",
+    "via": ["ravedash"],
+    "from": "ravedash"
+  },
+  {
+    "package": "rlang",
+    "url": "https://github.com/r-lib/rlang",
     "via": ["ravedash"],
     "from": "ravedash"
   },
