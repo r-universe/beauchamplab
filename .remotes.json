@@ -30,12 +30,6 @@
     "from": "ravedash"
   },
   {
-    "package": "dipsaus",
-    "url": "https://github.com/dipterix/dipsaus",
-    "via": ["raveio"],
-    "from": "raveio"
-  },
-  {
     "package": "fastmap",
     "url": "https://github.com/r-lib/fastmap",
     "via": ["ravedash"],
@@ -52,12 +46,6 @@
     "url": "https://github.com/dipterix/filearray",
     "via": ["ravedash", "raveio"],
     "from": "ravedash"
-  },
-  {
-    "package": "filearray",
-    "url": "https://github.com/dipterix/filearray",
-    "via": ["raveio"],
-    "from": "raveio"
   },
   {
     "package": "logger",
@@ -120,12 +108,6 @@
     "from": "ravedash"
   },
   {
-    "package": "shidashi",
-    "url": "https://github.com/dipterix/shidashi",
-    "via": ["raveio"],
-    "from": "raveio"
-  },
-  {
     "package": "shiny",
     "url": "https://github.com/rstudio/shiny",
     "via": ["ravedash"],
@@ -160,11 +142,5 @@
     "url": "https://github.com/dipterix/threeBrain",
     "via": ["ravedash"],
     "from": "ravedash"
-  },
-  {
-    "package": "threeBrain",
-    "url": "https://github.com/dipterix/threeBrain",
-    "via": ["raveio"],
-    "from": "raveio"
   }
 ]
