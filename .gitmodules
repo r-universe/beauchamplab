@@ -100,3 +100,8 @@
 	url = https://github.com/dreamRs/shinyWidgets
 	shallow = true
 	registered = false
+[submodule "visNetwork"]
+	path = visNetwork
+	url = https://github.com/datastorm-open/visNetwork
+	shallow = true
+	registered = false

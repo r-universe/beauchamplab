@@ -20,6 +20,12 @@
   {
     "package": "dipsaus",
     "url": "https://github.com/dipterix/dipsaus",
+    "via": ["raveclusters", "rave"],
+    "from": "raveclusters"
+  },
+  {
+    "package": "dipsaus",
+    "url": "https://github.com/dipterix/dipsaus",
     "via": ["ravecorrelation", "rave"],
     "from": "ravecorrelation"
   },
@@ -68,6 +74,12 @@
   {
     "package": "rave",
     "url": "https://github.com/beauchamplab/rave",
+    "via": ["raveclusters"],
+    "from": "raveclusters"
+  },
+  {
+    "package": "rave",
+    "url": "https://github.com/beauchamplab/rave",
     "via": ["ravecorrelation"],
     "from": "ravecorrelation"
   },
@@ -95,6 +107,12 @@
     "url": "https://github.com/beauchamplab/raveio",
     "via": ["ravebuiltins", "rave"],
     "from": "ravebuiltins"
+  },
+  {
+    "package": "raveio",
+    "url": "https://github.com/beauchamplab/raveio",
+    "via": ["raveclusters", "rave"],
+    "from": "raveclusters"
   },
   {
     "package": "raveio",
@@ -131,6 +149,12 @@
     "url": "https://github.com/dipterix/rutabaga",
     "via": ["ravebuiltins"],
     "from": "ravebuiltins"
+  },
+  {
+    "package": "rutabaga",
+    "url": "https://github.com/dipterix/rutabaga",
+    "via": ["raveclusters"],
+    "from": "raveclusters"
   },
   {
     "package": "rutabaga",
@@ -183,6 +207,12 @@
   {
     "package": "threeBrain",
     "url": "https://github.com/dipterix/threeBrain",
+    "via": ["raveclusters", "rave"],
+    "from": "raveclusters"
+  },
+  {
+    "package": "threeBrain",
+    "url": "https://github.com/dipterix/threeBrain",
     "via": ["ravecorrelation", "rave"],
     "from": "ravecorrelation"
   },
@@ -203,5 +233,11 @@
     "url": "https://github.com/dipterix/threeBrain",
     "via": ["ravedash"],
     "from": "ravedash"
+  },
+  {
+    "package": "visNetwork",
+    "url": "https://github.com/datastorm-open/visNetwork",
+    "via": ["raveclusters"],
+    "from": "raveclusters"
   }
 ]
