@@ -38,5 +38,8 @@
   },
   {
     "package": "ravebuiltins"
+  },
+  {
+    "package": "ravecorrelation"
   }
 ]

@@ -59,6 +59,11 @@
 	shallow = true
 	branch = migrate2
 	registered = true
+[submodule "ravecorrelation"]
+	path = ravecorrelation
+	url = https://github.com/LeoraCramer/ravecorrelation
+	shallow = true
+	registered = true
 [submodule "crayon"]
 	path = crayon
 	url = https://github.com/r-lib/crayon
