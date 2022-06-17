@@ -40,6 +40,9 @@
     "package": "ravebuiltins"
   },
   {
+    "package": "raveclusters"
+  },
+  {
     "package": "ravecorrelation"
   }
 ]

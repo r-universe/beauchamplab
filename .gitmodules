@@ -59,6 +59,12 @@
 	shallow = true
 	branch = migrate2
 	registered = true
+[submodule "raveclusters"]
+	path = raveclusters
+	url = https://github.com/z94007/raveclusters
+	shallow = true
+	branch = rave2.0-pipeline
+	registered = true
 [submodule "ravecorrelation"]
 	path = ravecorrelation
 	url = https://github.com/LeoraCramer/ravecorrelation
