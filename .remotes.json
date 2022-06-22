@@ -1,11 +1,5 @@
 [
   {
-    "package": "crayon",
-    "url": "https://github.com/r-lib/crayon",
-    "via": ["ravedash"],
-    "from": "ravedash"
-  },
-  {
     "package": "dipsaus",
     "url": "https://github.com/dipterix/dipsaus",
     "via": ["rave"],
@@ -34,24 +28,6 @@
     "url": "https://github.com/dipterix/dipsaus",
     "via": ["ravecorrelation", "ravebuiltins", "rave"],
     "from": "ravecorrelation"
-  },
-  {
-    "package": "dipsaus",
-    "url": "https://github.com/dipterix/dipsaus",
-    "via": ["ravedash"],
-    "from": "ravedash"
-  },
-  {
-    "package": "fastmap",
-    "url": "https://github.com/r-lib/fastmap",
-    "via": ["ravedash"],
-    "from": "ravedash"
-  },
-  {
-    "package": "logger",
-    "url": "https://github.com/daroczig/logger",
-    "via": ["ravedash"],
-    "from": "ravedash"
   },
   {
     "package": "rave",
@@ -115,24 +91,6 @@
     "from": "ravecorrelation"
   },
   {
-    "package": "raveio",
-    "url": "https://github.com/beauchamplab/raveio",
-    "via": ["ravedash"],
-    "from": "ravedash"
-  },
-  {
-    "package": "rlang",
-    "url": "https://github.com/r-lib/rlang",
-    "via": ["ravedash"],
-    "from": "ravedash"
-  },
-  {
-    "package": "rpymat",
-    "url": "https://github.com/dipterix/rpymat",
-    "via": ["ravedash"],
-    "from": "ravedash"
-  },
-  {
     "package": "rutabaga",
     "url": "https://github.com/dipterix/rutabaga",
     "via": ["ravebuiltins"],
@@ -155,24 +113,6 @@
     "url": "https://github.com/dipterix/rutabaga",
     "via": ["ravecorrelation"],
     "from": "ravecorrelation"
-  },
-  {
-    "package": "shidashi",
-    "url": "https://github.com/dipterix/shidashi",
-    "via": ["ravedash"],
-    "from": "ravedash"
-  },
-  {
-    "package": "shiny",
-    "url": "https://github.com/rstudio/shiny",
-    "via": ["ravedash"],
-    "from": "ravedash"
-  },
-  {
-    "package": "shinyWidgets",
-    "url": "https://github.com/dreamRs/shinyWidgets",
-    "via": ["ravedash"],
-    "from": "ravedash"
   },
   {
     "package": "threeBrain",
@@ -203,12 +143,6 @@
     "url": "https://github.com/dipterix/threeBrain",
     "via": ["ravecorrelation", "ravebuiltins", "rave"],
     "from": "ravecorrelation"
-  },
-  {
-    "package": "threeBrain",
-    "url": "https://github.com/dipterix/threeBrain",
-    "via": ["ravedash"],
-    "from": "ravedash"
   },
   {
     "package": "visNetwork",
