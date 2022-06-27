@@ -28,7 +28,8 @@
     "oncran": true
   },
   {
-    "package": "ravedash"
+    "package": "ravedash",
+    "oncran": true
   },
   {
     "package": "rutabaga"
