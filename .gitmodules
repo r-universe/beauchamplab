@@ -3,6 +3,11 @@
 	url = https://github.com/beauchamplab/universe
 	shallow = true
 	branch = HEAD
+[submodule "ravemanager"]
+	path = ravemanager
+	url = https://github.com/dipterix/ravemanager
+	shallow = true
+	registered = true
 [submodule "filearray"]
 	path = filearray
 	url = https://github.com/dipterix/filearray

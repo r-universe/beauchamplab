@@ -1,7 +1,10 @@
 [
   {
+    "package": "ravemanager"
+  },
+  {
     "package": "filearray",
-    "oncran": true
+    "oncran": false
   },
   {
     "package": "dipsaus",
