@@ -4,7 +4,7 @@
   },
   {
     "package": "filearray",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "dipsaus",
