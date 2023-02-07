@@ -48,9 +48,19 @@
 	url = https://github.com/dipterix/ravedash
 	shallow = true
 	registered = true
+[submodule "readNSx"]
+	path = readNSx
+	url = https://github.com/dipterix/readNSx
+	shallow = true
+	registered = true
 [submodule "rutabaga"]
 	path = rutabaga
 	url = https://github.com/dipterix/rutabaga
+	shallow = true
+	registered = true
+[submodule "Rvcg"]
+	path = Rvcg
+	url = https://github.com/cran/Rvcg
 	shallow = true
 	registered = true
 [submodule "rave"]

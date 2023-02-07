@@ -35,7 +35,15 @@
     "oncran": true
   },
   {
+    "package": "readNSx",
+    "oncran": true
+  },
+  {
     "package": "rutabaga"
+  },
+  {
+    "package": "Rvcg",
+    "oncran": false
   },
   {
     "package": "rave"
