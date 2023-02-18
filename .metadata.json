@@ -42,10 +42,6 @@
     "package": "rutabaga"
   },
   {
-    "package": "Rvcg",
-    "oncran": false
-  },
-  {
     "package": "rave"
   },
   {

@@ -58,11 +58,6 @@
 	url = https://github.com/dipterix/rutabaga
 	shallow = true
 	registered = true
-[submodule "Rvcg"]
-	path = Rvcg
-	url = https://github.com/cran/Rvcg
-	shallow = true
-	registered = true
 [submodule "rave"]
 	path = rave
 	url = https://github.com/beauchamplab/rave
