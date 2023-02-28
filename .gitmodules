@@ -53,6 +53,11 @@
 	url = https://github.com/dipterix/readNSx
 	shallow = true
 	registered = true
+[submodule "rpyANTs"]
+	path = rpyANTs
+	url = https://github.com/dipterix/rpyANTs
+	shallow = true
+	registered = true
 [submodule "rutabaga"]
 	path = rutabaga
 	url = https://github.com/dipterix/rutabaga

@@ -39,6 +39,9 @@
     "oncran": true
   },
   {
+    "package": "rpyANTs"
+  },
+  {
     "package": "rutabaga"
   },
   {
