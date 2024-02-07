@@ -2,31 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "dipsaus"]
-	path = dipsaus
-	url = https://github.com/dipterix/dipsaus
-	registered = false
-[submodule "rave"]
-	path = rave
-	url = https://github.com/beauchamplab/rave
-	registered = false
-[submodule "ravebuiltins"]
-	path = ravebuiltins
-	url = https://github.com/beauchamplab/ravebuiltins
-	branch = migrate2
-	registered = false
 [submodule "raveio"]
 	path = raveio
 	url = https://github.com/beauchamplab/raveio
-[submodule "rutabaga"]
-	path = rutabaga
-	url = https://github.com/dipterix/rutabaga
-	registered = false
-[submodule "threeBrain"]
-	path = threeBrain
-	url = https://github.com/dipterix/threeBrain
-	registered = false
-[submodule "visNetwork"]
-	path = visNetwork
-	url = https://github.com/datastorm-open/visNetwork
-	registered = false
